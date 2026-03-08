@@ -41,9 +41,7 @@ weather_agent/
 | Azure CLI logged in | Run `az login` before using gateway mode |
 | Application Insights resource | For receiving OTel traces |
 | Foundry External agent deployed | The weather agent must be live at your gateway URL. The agent must be registered in foundry as an asset. See link for more information:
-https://learn.microsoft.com/en-us/azure/foundry/control-plane/register-custom-agent?view=foundry
-
- |
+https://learn.microsoft.com/en-us/azure/foundry/control-plane/register-custom-agent?view=foundry|
 
 ---
 
