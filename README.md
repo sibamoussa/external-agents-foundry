@@ -1,6 +1,6 @@
 # External Weather Agent Brought into Foundry for Observability 
 
-End-to-end test runner for an **External Agent brought into Microsoft  AI Foundry** weather agent. It sends questions to the agent, traces every HTTP call and tool invocation to **Azure Monitor / Foundry Tracing**, and scores responses with built-in (F1, BLEU, ROUGE) and custom (WeatherCompleteness) evaluators.
+End-to-end test runner for an **External Agent brought into Microsoft  AI Foundry** . It sends questions to the agent, traces every HTTP call and tool invocation to **Azure Monitor / Foundry Tracing**, and scores responses with built-in (F1, BLEU, ROUGE) and custom (WeatherCompleteness) evaluators.
 
 ---
 
